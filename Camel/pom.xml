@@ -11,6 +11,7 @@
 
     <modules>
         <module>java-dsl-route-filecopy</module>
+        <module>spring-dsl-route-timer</module>
     </modules>
 
 </project>
